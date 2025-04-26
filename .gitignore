@@ -3,3 +3,6 @@ nnenv/
 
 # Cache files
 __pycache__/
+
+# Books
+books/
