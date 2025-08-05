@@ -1,10 +1,28 @@
-# Virtual environnment
-nnenv/
-
-# Cache files
+# Python-generated files
 __pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.python-version
 
-# Books
-books/
+uv.lock
 
-activation*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+# PyCharm project files
+.idea/
+# VS Code settings
+.vscode/
+# Virtual environment directories
+.venv/
+venv/
+.env/
+.env.local
+.env.development
